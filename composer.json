@@ -35,9 +35,9 @@
     ],
     "require": {
         "php": ">=5.5.0",
-        "illuminate/container": "^4|^5.1",
-        "illuminate/routing": "^4|^5.1",
-        "illuminate/support": "^4|^5.1",
+        "illuminate/container": "^6",
+        "illuminate/routing": "^6",
+        "illuminate/support": "^6",
         "payum/core": "^1"
     },
     "suggest": {
